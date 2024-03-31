@@ -1,8 +1,22 @@
+# Newsletter App 
+
+# Next.js
+
+Welcome to my web page project, where I've used Laravel backend and Next.js frontend to create a newsletter app with email notifications. You can get laravel app code in this link [Laravel-Github](https://github.com/Sumeyye-Mete/Newsletter-Backend.git). 
+
+In this project users can  explore a list of news items and view details of each item. Cached data is marked as green frame for news items. Admin user can login and do CRUD operations for news items. Subcribed users can get email notifications when a new news item is published. A summary of all news items added that day is sent as email to subscribed users.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## Setting Project 
 
-First, run the development server:
+First, install the dependencies:
+
+```bash
+npm install
+```
+
+Second, run the development server:
 
 ```bash
 npm run dev
@@ -16,21 +30,3 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
