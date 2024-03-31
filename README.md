@@ -8,6 +8,12 @@ In this project users can  explore a list of news items and view details of each
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Project Video Demo : 
+
+https://github.com/Sumeyye-Mete/Newsletter-Frontend/assets/143296901/a99cd193-490d-4c44-a6d4-241abaa2e9ab
+
+
+
 ## Setting Project 
 
 First, install the dependencies:
