@@ -6,7 +6,7 @@ const NewsCard = ({ item, isCashed }) => {
 	return (
 		<div
 			className={`mt-8 ${
-				isCashed ? "dark:bg-teal-700" : "bg-white dark:bg-gray-800"
+				isCashed ? "bg-teal-400 dark:bg-teal-700" : "bg-white dark:bg-gray-800"
 			}  overflow-hidden shadow rounded-lg`}
 		>
 			<div className="p-2 border-t border-gray-200 dark:border-gray-700 md:border-t-0 md:border-l">
