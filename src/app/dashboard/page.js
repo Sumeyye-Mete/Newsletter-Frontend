@@ -57,7 +57,7 @@ export default function Dashboard() {
 						<div key={item.id} className="relative overflow-hidden">
 							<Link
 								href={`dashboard/article/edit/${item.id}`}
-								className="flex flex-col items-center bg-white border border-gray-200 rounded-lg shadow lg:flex-row lg:gap-20 lg:p-10 hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700"
+								className="flex flex-col items-center bg-white border border-gray-200 rounded-lg shadow lg:flex-row lg:gap-20 hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700"
 							>
 								<img
 									className="object-cover w-full aspect-square lg:w-96 rounded-t-lg lg:h-96   lg:rounded-none lg:rounded-s-lg"
