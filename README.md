@@ -28,5 +28,4 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
+Set the laravel [project](https://github.com/Sumeyye-Mete/Newsletter-Backend.git).Your local backend server should work on [http://localhost:8000](http://localhost:8000) and next.js app should work on [http://localhost:3000](http://localhost:3000) 
